@@ -5,7 +5,7 @@
 </p>
 
 <p>
-I am about to complete my Technical Degree in Programming at the National University of Hurlingham (UNAHUR). I stand out for my adaptability, problem-solving approach, and passion for computing. During my studies, I have acquired solid knowledge of front-end and back-end technologies, allowing me to develop comprehensive academic software projects.
+I am about to finish my degree in Programming at the National University of Hurlingham (UNAHUR). I stand out for my adaptability, problem-solving approach, and passion for computing. During my studies, I have acquired solid knowledge of front-end and back-end technologies, allowing me to develop comprehensive academic software projects.
 
 My goal is to continue learning and growing professionally, contributing creativity and innovative solutions to the world of software development.
 </p>
