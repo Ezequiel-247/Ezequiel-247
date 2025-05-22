@@ -31,10 +31,12 @@ My goal is to continue learning and growing professionally, contributing creativ
 </span>
 
 <h3> Frameworks, Platforms and Libraries </h3>
+<span>  
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD">
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+</span>
   
 <h3> Other Tools and Technologies</h3>
 <span>
