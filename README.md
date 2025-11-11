@@ -19,6 +19,8 @@
   </a>
 </p>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <h2 id="sobre-mi">Sobre Mi</h2>
 <p>
   Estoy a punto de finalizar mi carrera en Programación en la Universidad Nacional de Hurlingham (UNAHUR). Me destaco por mi adaptabilidad, enfoque en la resolución de problemas y pasión por la informática. Durante mis estudios, he adquirido sólidos     conocimientos en tecnologías de front-end y back-end, lo que me ha permitido desarrollar proyectos académicos de software de manera integral.
