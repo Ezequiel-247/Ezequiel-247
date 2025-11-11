@@ -5,32 +5,37 @@
 </p>
 
 <p align="center">
-  <a href="#sobre-mi">Sobre mí</a> •
-  <a href="#mis-habilidades">Habilidades durante mi formacion</a> •
+  <a href="#sobre-mi">Sobre mí</a> 
+  <a href="#experiencia">Experiencia Laboral</a>
+  <a href="#formacion">Habilidades durante mi formacion</a> 
   <a href="#redes">Redes</a>
 </p>
 
 <h2 id="sobre-mi">Sobre Mi</h2>
 <p>
-Estoy a punto de finalizar mi carrera en Programación en la Universidad Nacional de Hurlingham (UNAHUR). Me destaco por mi adaptabilidad, enfoque en la resolución de problemas y pasión por la informática. Durante mis estudios, he adquirido sólidos conocimientos en tecnologías de front-end y back-end, lo que me ha permitido desarrollar proyectos académicos de software de manera integral.
-Mi objetivo es seguir aprendiendo y creciendo profesionalmente, aportando creatividad y soluciones innovadoras al mundo del desarrollo de software
+  Estoy a punto de finalizar mi carrera en Programación en la Universidad Nacional de Hurlingham (UNAHUR). Me destaco por mi adaptabilidad, enfoque en la resolución de problemas y pasión por la informática. Durante mis estudios, he adquirido sólidos     conocimientos en tecnologías de front-end y back-end, lo que me ha permitido desarrollar proyectos académicos de software de manera integral.
+  Mi objetivo es seguir aprendiendo y creciendo profesionalmente, aportando creatividad y soluciones innovadoras al mundo del desarrollo de software.
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 id="experiencia">Experiencia Laboral</h2>
 <h4>Pasantía de desarrollo Back-end </h4>
-<h4>Descripción:</h4><p>Colaboro en el desarrollo y mantenimiento de sistemas internos para la gestión y análisis de datos técnicos, implementando servicios RESTful con Flask, conexión a bases de datos y generación de reportes automatizados.</p>
+<h4>Descripción:</h4>
+<p>Colaboro en el desarrollo y mantenimiento de sistemas internos para la gestión y análisis de datos técnicos, implementando servicios RESTful con Flask, conexión a bases de datos y generación de reportes automatizados.</p>
+<p>Periodo: Agosto 2025 - Actualidad </p>
 <h4>Tecnologias utilizadas</h4>
 <span>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </span>
-<h2 id="mis-habilidades"> Mis Habilidades</h2>
-<h2> Conocimientos obtenidos durante mi formación</h2>
-<p> Durante mi carrera universitaria he adquirido conocimientos académicos en estos lenguajes y herramientas que me permitieron comprender y aplicar conceptos de programación orientada a objetos, 
-    estructuras de datos, bases de datos, desarrollo web, estrategias de persistencia y construcción de interfaces de usuario.
+
+<h2 id="formacion"> Conocimientos obtenidos durante mi formación</h2>
+<p> 
+  Durante mi carrera universitaria he adquirido conocimientos académicos a traves de los siguientes lenguajes y herramientas que me permitieron comprender y aplicar conceptos de programación orientada a objetos, 
+  estructuras de datos, bases de datos, desarrollo web, estrategias de persistencia y construcción de interfaces de usuario.
 </p>
 <h3> Lenguajes</h3>
 <span>
