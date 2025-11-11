@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </span>
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h2 id="formacion"> Conocimientos obtenidos durante mi formación</h2>
 <p> 
   Durante mi carrera universitaria he adquirido conocimientos académicos a traves de los siguientes lenguajes y herramientas que me permitieron comprender y aplicar conceptos de programación orientada a objetos, 
@@ -68,8 +68,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu%20MATE-84A454.svg?style=for-the-badge&logo=Ubuntu-MATE&logoColor=white">
 </span>
-
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h2 id="redes"> Visita mis redes Sociales</h2>
 <a href="https://www.linkedin.com/in/eduardo-ezequiel-ortiz-7815a526b/?trk=opento_sprofile_topcard">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
