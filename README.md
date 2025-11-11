@@ -4,6 +4,13 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
 
+<p align="center">
+  <a href="#sobre-mi">Sobre mí</a> •
+  <a href="#mis-habilidades">Habilidades</a> •
+  <a href="#redes">Redes</a>
+</p>
+
+<h2 id="sobre-mi">Sobre Mi</h2>
 <p>
 Estoy a punto de finalizar mi carrera en Programación en la Universidad Nacional de Hurlingham (UNAHUR). Me destaco por mi adaptabilidad, enfoque en la resolución de problemas y pasión por la informática. Durante mis estudios, he adquirido sólidos conocimientos en tecnologías de front-end y back-end, lo que me ha permitido desarrollar proyectos académicos de software de manera integral.
 Mi objetivo es seguir aprendiendo y creciendo profesionalmente, aportando creatividad y soluciones innovadoras al mundo del desarrollo de software
@@ -11,7 +18,7 @@ Mi objetivo es seguir aprendiendo y creciendo profesionalmente, aportando creati
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h2> Mis Habilidades</h2>
+<h2 id="habilidades"> Mis Habilidades</h2>
 <h2> Conocimientos obtenidos durante mi formación</h2>
 <p> Durante mi carrera universitaria he adquirido conocimientos académicos en estos lenguajes y herramientas que me permitieron comprender y aplicar conceptos de programación orientada a objetos, 
     estructuras de datos, bases de datos, desarrollo web, estrategias de persistencia y construcción de interfaces de usuario.
@@ -50,7 +57,7 @@ Mi objetivo es seguir aprendiendo y creciendo profesionalmente, aportando creati
 </span>
 
 
-<h2> Visita mis redes Sociales</h2>
+<h2 id="redes"> Visita mis redes Sociales</h2>
 <a href="https://www.linkedin.com/in/eduardo-ezequiel-ortiz-7815a526b/?trk=opento_sprofile_topcard">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
