@@ -21,6 +21,10 @@ Mi objetivo es seguir aprendiendo y creciendo profesionalmente, aportando creati
 <h2 id="experiencia">Experiencia Laboral</h2>
 <h4>Pasantía de desarrollo Back-end </h4>
 <h4>Descripción:</h4><p>Colaboro en el desarrollo y mantenimiento de sistemas internos para la gestión y análisis de datos técnicos, implementando servicios RESTful con Flask, conexión a bases de datos y generación de reportes automatizados.</p>
+<h4>Tecnologias utilizadas</h4>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+
 <h2 id="mis-habilidades"> Mis Habilidades</h2>
 <h2> Conocimientos obtenidos durante mi formación</h2>
 <p> Durante mi carrera universitaria he adquirido conocimientos académicos en estos lenguajes y herramientas que me permitieron comprender y aplicar conceptos de programación orientada a objetos, 
@@ -64,5 +68,3 @@ Mi objetivo es seguir aprendiendo y creciendo profesionalmente, aportando creati
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
