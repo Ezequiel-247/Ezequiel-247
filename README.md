@@ -22,9 +22,11 @@ Mi objetivo es seguir aprendiendo y creciendo profesionalmente, aportando creati
 <h4>Pasantía de desarrollo Back-end </h4>
 <h4>Descripción:</h4><p>Colaboro en el desarrollo y mantenimiento de sistemas internos para la gestión y análisis de datos técnicos, implementando servicios RESTful con Flask, conexión a bases de datos y generación de reportes automatizados.</p>
 <h4>Tecnologias utilizadas</h4>
+<span>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+</span>
 <h2 id="mis-habilidades"> Mis Habilidades</h2>
 <h2> Conocimientos obtenidos durante mi formación</h2>
 <p> Durante mi carrera universitaria he adquirido conocimientos académicos en estos lenguajes y herramientas que me permitieron comprender y aplicar conceptos de programación orientada a objetos, 
@@ -42,7 +44,6 @@ Mi objetivo es seguir aprendiendo y creciendo profesionalmente, aportando creati
 <span>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 </span>
 
