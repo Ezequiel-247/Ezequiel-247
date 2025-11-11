@@ -13,16 +13,15 @@ Mi objetivo es seguir aprendiendo y creciendo profesionalmente, aportando creati
 
 <h2> Mis Habilidades</h2>
 <h2> Conocimientos obtenidos durante mi formación</h2>
-<h3> Lenguajes</h3>
-<p> Durante mi carrera universitaria he adquirido conocimientos en estos lenguajes y herramientas que me permitieron comprender y aplicar conceptos de programación orientada a objetos, 
+<p> Durante mi carrera universitaria he adquirido conocimientos académicos en estos lenguajes y herramientas que me permitieron comprender y aplicar conceptos de programación orientada a objetos, 
     estructuras de datos, bases de datos, desarrollo web, estrategias de persistencia y construcción de interfaces de usuario.
 </p>
+<h3> Lenguajes</h3>
 <span>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </span>
 
 <h3> Bases de datos </h3>
@@ -40,7 +39,6 @@ Mi objetivo es seguir aprendiendo y creciendo profesionalmente, aportando creati
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
 </span>
   
 <h3> Otras herramientas y tecnologías</h3>
@@ -48,7 +46,6 @@ Mi objetivo es seguir aprendiendo y creciendo profesionalmente, aportando creati
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu%20MATE-84A454.svg?style=for-the-badge&logo=Ubuntu-MATE&logoColor=white">
 </span>
 
@@ -57,3 +54,6 @@ Mi objetivo es seguir aprendiendo y creciendo profesionalmente, aportando creati
 <a href="https://www.linkedin.com/in/eduardo-ezequiel-ortiz-7815a526b/?trk=opento_sprofile_topcard">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
