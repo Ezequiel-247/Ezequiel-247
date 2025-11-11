@@ -20,10 +20,11 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 id="experiencia">Experiencia Laboral</h2>
-<h4>Pasantía de desarrollo Back-end </h4>
+<h3>Pasantía de desarrollo Back-end </h3>
 <h4>Descripción:</h4>
 <p>Colaboro en el desarrollo y mantenimiento de sistemas internos para la gestión y análisis de datos técnicos, implementando servicios RESTful con Flask, conexión a bases de datos y generación de reportes automatizados.</p>
-<p>Periodo: Agosto 2025 - Actualidad </p>
+<h4>Periodo</h4>
+<p>Agosto 2025 - Actualidad </p>
 <h4>Tecnologias utilizadas</h4>
 <span>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
