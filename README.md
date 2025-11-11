@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="#sobre-mi">Sobre mí</a> •
-  <a href="#mis-habilidades">Habilidades</a> •
+  <a href="#mis-habilidades">Habilidades durante mi formacion</a> •
   <a href="#redes">Redes</a>
 </p>
 
@@ -43,7 +43,6 @@ Mi objetivo es seguir aprendiendo y creciendo profesionalmente, aportando creati
 <span>  
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
