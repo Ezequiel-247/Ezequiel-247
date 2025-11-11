@@ -1,6 +1,9 @@
 <h1 align="center">Hola, soy Ezequiel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<img src=https://media.licdn.com/dms/image/v2/D4D03AQFLh9lOZMfNkg/profile-displayphoto-crop_800_800/B4DZef3uZnG8AI-/0/1750733877760?e=1759968000&v=beta&t=Lu4c39lAd63InGsItb8Vn06RXFIYhk_hvMD01SdQxbs width="250"(https://media.licdn.com/dms/image/v2/D4D03AQFLh9lOZMfNkg/profile-displayphoto-crop_800_800/B4DZef3uZnG8AI-/0/1750733877760?e=1764201600&v=beta&t=lYLKioaJ3TEeRZZTIPrGAVLMdMcM9c8on14iOA51H80)>
+<a href="https://media.licdn.com/dms/image/v2/D4D03AQFLh9lOZMfNkg/profile-displayphoto-crop_800_800/B4DZef3uZnG8AI-/0/1750733877760?e=1764201600&v=beta&t=lYLKioaJ3TEeRZZTIPrGAVLMdMcM9c8on14iOA51H80" target="_blank">
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQFLh9lOZMfNkg/profile-displayphoto-crop_800_800/B4DZef3uZnG8AI-/0/1750733877760?e=1759968000&v=beta&t=Lu4c39lAd63InGsItb8Vn06RXFIYhk_hvMD01SdQxbs" width="250" alt="Foto de perfil">
+</a>
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
 
