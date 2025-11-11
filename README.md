@@ -18,6 +18,9 @@ Mi objetivo es seguir aprendiendo y creciendo profesionalmente, aportando creati
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<h2 id="experiencia">Experiencia Laboral</h2>
+<h4>Pasantía de desarrollo Back-end </h4>
+<p>Colaboro en el desarrollo y mantenimiento de sistemas internos para la gestión y análisis de datos técnicos, implementando servicios RESTful con Flask, conexión a bases de datos y generación de reportes automatizados.</p>
 <h2 id="mis-habilidades"> Mis Habilidades</h2>
 <h2> Conocimientos obtenidos durante mi formación</h2>
 <p> Durante mi carrera universitaria he adquirido conocimientos académicos en estos lenguajes y herramientas que me permitieron comprender y aplicar conceptos de programación orientada a objetos, 
