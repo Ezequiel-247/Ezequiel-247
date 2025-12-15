@@ -25,8 +25,13 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h2 id="sobre-mi">Sobre Mi</h2>
 <p>
-  Estoy a punto de finalizar mi carrera en Programación en la Universidad Nacional de Hurlingham (UNAHUR). Me destaco por mi adaptabilidad, enfoque en la resolución de problemas y pasión por la informática. Durante mis estudios, he adquirido sólidos     conocimientos en tecnologías de front-end y back-end, lo que me ha permitido desarrollar proyectos académicos de software de manera integral.
-  Mi objetivo es seguir aprendiendo y creciendo profesionalmente, aportando creatividad y soluciones innovadoras al mundo del desarrollo de software.
+  Soy Desarrollador de Software con experiencia laboral en el INTA (Instituto Nacional de Tecnología Agropecuaria) como desarrollador full-stack, con un enfoque particular en el backend.
+
+Acabo de completar mi Tecnicatura Universitaria en Programación (UNAHUR) y me encuentro en la transición para iniciar la Licenciatura en Informatica.
+
+Me destaco por mi capacidad de adaptación y mi enfoque práctico en la resolución de problemas. Poseo sólidos conocimientos en el desarrollo Full-Stack, habiendo participado en proyectos con tecnologías como Python/Flask, MongoDB y JavaScript.
+
+Mi objetivo es seguir aprendiendo y creciendo profesionalmente, aportando creatividad y soluciones innovadoras al mundo del desarrollo de software, apalancado en la experiencia adquirida en entornos reales.
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
