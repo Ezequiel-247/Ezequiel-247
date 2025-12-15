@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Ezequiel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-< img src="https://avatars.githubusercontent.com/u/141964904?v=4">
+<img src="https://avatars.githubusercontent.com/u/141964904?v=4">
 
 
 
