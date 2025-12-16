@@ -14,9 +14,6 @@
   <a href="#experiencia">
     <img src="https://img.shields.io/badge/Experiencia%20Laboral-181717?style=for-the-badge&logo=briefcase&logoColor=white">
   </a>
-  <a href="#formacion">
-    <img src="https://img.shields.io/badge/Formación%20y%20Habilidades-181717?style=for-the-badge&logo=book&logoColor=white">
-  </a>
   <a href="#redes">
     <img src="https://img.shields.io/badge/Redes%20Sociales-181717?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
