@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Redes%20Sociales-181717?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="#proyectos">
-    <img src="https://img.shields.io/badge/Redes%20Sociales-181717?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/Mis%Proyectos-181717?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
