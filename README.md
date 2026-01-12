@@ -73,8 +73,8 @@ Mi objetivo es seguir aprendiendo y creciendo profesionalmente, aportando creati
       <h3>🎬 Netflix Clone - Full Stack</h3>
       <p>Aplicación de streaming que simula la experiencia de Netflix. Incluye gestión de perfiles, sistema de favoritos y reproducción de trailers mediante la API de YouTube.</p>
       <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB">
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
         <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white">
         <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white">
