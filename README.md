@@ -42,8 +42,8 @@ Mi objetivo es seguir aprendiendo y creciendo profesionalmente, aportando creati
 <p>Colaboro en el desarrollo y mantenimiento de sistemas internos para la gestión y análisis de datos técnicos, implementando servicios RESTful con Flask, conexión a bases de datos y generación de reportes automatizados.</p>
 <h4>Periodo</h4>
 <p>Agosto 2025 - Actualidad </p>
-<h4>Tecnologías utilizadas</h4>
 
+<h4>Tecnologías utilizadas</h4>
 <h5>Lenguajes</h5>
 <span>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -79,8 +79,12 @@ Mi objetivo es seguir aprendiendo y creciendo profesionalmente, aportando creati
         <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white">
         <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white">
       </p>
+      <br>
       <a href="https://github.com/Ezequiel-247/App-de-Series-estilo-NETFLIX">
         <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <a href="https://app-de-series-estilo-netflix-front.onrender.com">
+        <img src="https://img.shields.io/badge/Probar_Demo-E50914?style=for-the-badge&logo=netflix&logoColor=white">
       </a>
     </td>
   </tr>
@@ -91,4 +95,7 @@ Mi objetivo es seguir aprendiendo y creciendo profesionalmente, aportando creati
 <h2 id="redes">Visita mis redes Sociales</h2>
 <a href="https://www.linkedin.com/in/eduardo-ezequiel-ortiz-7815a526b/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/Ezequiel-247">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
