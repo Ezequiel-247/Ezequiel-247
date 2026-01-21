@@ -25,9 +25,9 @@
 
 <h2 id="sobre-mi">Sobre Mi</h2>
 <p>
-  Soy Desarrollador de Software con experiencia enfocada en el desarrollo backend y análisis de datos. Cuento con experiencia laboral en el <b>INTA</b> (Instituto Nacional de Tecnología Agropecuaria), donde diseño e implemento soluciones escalables para la gestión de datos técnicos.
+  Soy Desarrollador de Software con enfoque en el desarrollo backend y análisis de datos. Actualmente me desempeño como desarrollador full-stack en el <b>INTA</b>.
 
-Recientemente finalicé mi <b>Tecnicatura Universitaria en Programación (UNAHUR)</b> y me encuentro iniciando la Licenciatura en Informática. Me apasiona resolver problemas complejos mediante el uso de tecnologías como Python, Flask y bases de datos NoSQL como MongoDB.
+Recientemente completé mi <b>Tecnicatura Universitaria en Programación (UNAHUR)</b> y estoy iniciando la Licenciatura en Informática. Me apasiona crear soluciones eficientes utilizando tecnologías como Python, Flask, MongoDB y React.
 </p>
 
 <a href="https://github.com/Ezequiel-247"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -35,7 +35,7 @@ Recientemente finalicé mi <b>Tecnicatura Universitaria en Programación (UNAHUR
 <h2 id="experiencia">Experiencia Laboral</h2>
 <h3>Pasantía de Desarrollo Back-end - INTA</h3>
 <h4>Descripción:</h4>
-<p>Participo en la implementación de una arquitectura backend distribuida para la recolección, manipulación y visualización de datos hidrológicos (freatígrafos y limnígrafos). Desarrollo APIs RESTful para optimizar el flujo de información técnica.</p>
+<p>Desarrollo de arquitecturas backend para la gestión de datos técnicos, creación de APIs RESTful y automatización de procesos internos.</p>
 <h4>Periodo</h4>
 <p>Agosto 2025 - Actualidad (Finalización prevista: Marzo 2026)</p>
 
@@ -44,7 +44,6 @@ Recientemente finalicé mi <b>Tecnicatura Universitaria en Programación (UNAHUR
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </span>
 
 <a href="https://github.com/Ezequiel-247"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -54,19 +53,22 @@ Recientemente finalicé mi <b>Tecnicatura Universitaria en Programación (UNAHUR
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/tu-imagen-hidrologica" width="100%" style="border-radius:10px;" alt="Sistema Hidrológico INTA">
+      <img src="https://github.com/user-attachments/assets/Perfil_1-DOvjIwKS.png" width="100%" style="border-radius:10px;" alt="Mi Portfolio Profesional">
     </td>
     <td width="50%" valign="top">
-      <h3>💧 Monitoreo Hidrológico Automático</h3>
-      <p>Sistema profesional para el procesamiento de datos de freatígrafos y limnígrafos. Incluye automatización de reportes y visualización dinámica de niveles de agua.</p>
+      <h3>🚀 Portfolio Personal Profesional</h3>
+      <p>Mi sitio web principal donde presento mi trayectoria, habilidades y proyectos destacados. Desarrollado con un enfoque moderno y optimizado para despliegue continuo.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+        <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white">
       </p>
       <br>
+      <a href="https://github.com/Ezequiel-247/Portfolio">
+        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+      </a>
       <a href="https://portfolio-ezequiel.onrender.com">
-        <img src="https://img.shields.io/badge/Ver_Demo-4285F4?style=for-the-badge&logo=render&logoColor=white">
+        <img src="https://img.shields.io/badge/Ver_Sitio-4285F4?style=for-the-badge&logo=render&logoColor=white">
       </a>
     </td>
   </tr>
