@@ -67,7 +67,7 @@ Recientemente completé mi <b>Tecnicatura Universitaria en Programación (UNAHUR
       <a href="https://github.com/Ezequiel-247/Portfolio">
         <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
       </a>
-      <a href="https://portfolio-ezequiel.onrender.com">
+      <a href="https://portfolio-ezequiel.onrender.com](https://portfolio-ezequiel-qzz0.onrender.com/">
         <img src="https://img.shields.io/badge/Ver_Sitio-4285F4?style=for-the-badge&logo=render&logoColor=white">
       </a>
     </td>
