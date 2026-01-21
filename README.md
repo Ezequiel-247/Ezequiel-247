@@ -1,9 +1,11 @@
 <h1 align="center">Hola, soy Ezequiel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/141964904?v=4" width="200" style="border-radius: 50%;">
+  <img width="100%" alt="Banner Portfolio Ezequiel" src="https://github.com/user-attachments/assets/b21fae1d-629f-42cc-871a-66ddcc57b4e8" style="border-radius:10px;">
+</p>
 
-<a href="https://github.com/Ezequiel-247"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/141964904?v=4" width="150" style="border-radius: 50%;">
 </p>
 
 <p align="center">
