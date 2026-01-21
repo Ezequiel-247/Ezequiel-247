@@ -1,11 +1,9 @@
 <h1 align="center">Hola, soy Ezequiel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img width="100%" alt="Banner Portfolio Ezequiel" src="https://github.com/user-attachments/assets/b21fae1d-629f-42cc-871a-66ddcc57b4e8" style="border-radius:10px;">
-</p>
+<img src="https://avatars.githubusercontent.com/u/141964904?v=4" width="200" style="border-radius: 50%;">
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/141964904?v=4" width="150" style="border-radius: 50%;">
+<a href="https://github.com/Ezequiel-247"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
 
 <p align="center">
@@ -27,7 +25,7 @@
 
 <h2 id="sobre-mi">Sobre Mi</h2>
 <p>
-  Soy Desarrollador de Software con enfoque en el desarrollo backend y análisis de datos. Actualmente me desempeño como desarrollador full-stack en el <b>INTA</b>.
+  Soy Desarrollador de Software enfocado en el desarrollo backend y análisis de datos. Actualmente me desempeño como desarrollador full-stack en el <b>INTA</b>.
 
 Recientemente completé mi <b>Tecnicatura Universitaria en Programación (UNAHUR)</b> y estoy iniciando la Licenciatura en Informática. Me apasiona crear soluciones eficientes utilizando tecnologías como Python, Flask, MongoDB y React.
 </p>
@@ -55,7 +53,7 @@ Recientemente completé mi <b>Tecnicatura Universitaria en Programación (UNAHUR
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/Perfil_1-DOvjIwKS.png" width="100%" style="border-radius:10px;" alt="Mi Portfolio Profesional">
+      <img src="https://github.com/user-attachments/assets/b21fae1d-629f-42cc-871a-66ddcc57b4e8" width="100%" style="border-radius:10px;" alt="Mi Portfolio Profesional">
     </td>
     <td width="50%" valign="top">
       <h3>🚀 Portfolio Personal Profesional</h3>
