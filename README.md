@@ -100,6 +100,29 @@ Recientemente completé mi <b>Tecnicatura Universitaria en Programación (UNAHUR
   </tr>
 </table>
 
+<br>
+
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/951c31d0-fb5c-4e4c-8a5f-8708cc34d87f" width="100%" style="border-radius:10px;" alt="Red Anti-Social">
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 Red Anti-Social - Full Stack</h3>
+      <p>Plataforma interactiva que permite a los usuarios compartir contenido, comentar y reaccionar. Destaca por un modelo de datos optimizado para manejar interacciones complejas, relaciones N:M y etiquetas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+      </p>
+      <br>
+      <a href="https://github.com/Ezequiel-247/Red-Anti-Social-Unahur">
+        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
+
 <a href="https://github.com/Ezequiel-247"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 id="redes">Visita mis Redes Sociales</h2>
