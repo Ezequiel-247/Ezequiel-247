@@ -109,7 +109,7 @@ Recientemente completé mi <b>Tecnicatura Universitaria en Programación (UNAHUR
     </td>
     <td width="50%" valign="top">
       <h3>🤝 Red Anti-Social - Full Stack</h3>
-      <p>Plataforma interactiva que permite a los usuarios compartir contenido, comentar y reaccionar. Destaca por un modelo de datos optimizado para manejar interacciones complejas, relaciones N:M y etiquetas.</p>
+      <p>Plataforma interactiva que permite a los usuarios compartir contenido, comentar y reaccionar. Destaca por un modelo de datos optimizado para manejar interacciones complejas.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
         <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white">
