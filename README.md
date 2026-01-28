@@ -109,15 +109,19 @@ Recientemente completé mi <b>Tecnicatura Universitaria en Programación (UNAHUR
     </td>
     <td width="50%" valign="top">
       <h3>🤝 Red Anti-Social - Full Stack</h3>
-      <p>Plataforma interactiva que permite a los usuarios compartir contenido, comentar y reaccionar. Destaca por un modelo de datos optimizado para manejar interacciones complejas.</p>
+      <p>Plataforma interactiva desarrollada para la UNAHUR que permite a los usuarios compartir contenido, comentar y reaccionar. Implementa una arquitectura robusta con validaciones de seguridad y persistencia de datos.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
         <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white">
       </p>
       <br>
       <a href="https://github.com/Ezequiel-247/Red-Anti-Social-Unahur">
         <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <a href="https://red-anti-social-front.onrender.com">
+        <img src="https://img.shields.io/badge/Probar_App-43853d?style=for-the-badge&logo=render&logoColor=white">
       </a>
     </td>
   </tr>
