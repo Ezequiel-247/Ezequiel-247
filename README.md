@@ -25,9 +25,7 @@
 
 <h2 id="sobre-mi">Sobre Mi</h2>
 <p>
-  Soy Desarrollador de Software enfocado en el desarrollo backend y análisis de datos. Actualmente me desempeño como desarrollador full-stack en el <b>INTA</b>.
-
-Recientemente completé mi <b>Tecnicatura Universitaria en Programación (UNAHUR)</b> y estoy iniciando la Licenciatura en Informática. Me apasiona crear soluciones eficientes utilizando tecnologías como Python, Flask, MongoDB y React.
+  Hola soy Eduardo Ezequiel Ortiz, vivo en Buenos Aires, Argentina. Recientemente me gradué como Técnico Universitario en Programación en la Universidad Nacional de Hurlingham (UNAHUR), actualmente estoy cursando la Licenciatura en Informatica (UNAHUR). Constantemente estoy practicando, puliendo e investigando sobre habilidades de programación y desarrollo de software para poder aplicarlas en mis proyectos personales y particulares aportando código limpio, eficiente y enfocado en el impacto real. Muchas gracias por visitar mi portfolio, espero que te guste lo que ves y no dudes en contactarme para cualquier consulta o proyecto en el que pueda colaborar.
 </p>
 
 <a href="https://github.com/Ezequiel-247"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
