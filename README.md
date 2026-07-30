@@ -89,13 +89,16 @@
       <p>Plataforma de gestión académica universitaria. Permite realizar el seguimiento del plan de estudios, controlar correlatividades, registrar avances con importación desde Excel, organizar sesiones de estudio y conectar con compañeros.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB">
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
-        <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
       </p>
       <br>
       <a href="https://github.com/Ezequiel-247/DesApp">
