@@ -34,7 +34,10 @@
 
 <table border="0">
   <tr>
-   <td width="50%" valign="top">
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/59003e25-d499-4993-b3f1-8c7354ff568d" width="100%" style="border-radius:10px;" alt="Sistema de gestión hídrica INTA">
+    </td>
+    <td width="50%" valign="top">
       <h3>Pasantía de Desarrollo Back-end - INTA</h3>
       <h4>Descripción:</h4>
       <p>Durante mi experiencia en INTA, desarrollé un producto de software Backend diseñado para la gestión, procesamiento y visualización de datos provenientes de freatígrafos y limnígrafos.</p>
