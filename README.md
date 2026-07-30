@@ -34,18 +34,16 @@
 
 <table border="0">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/59003e25-d499-4993-b3f1-8c7354ff568d" width="100%" style="border-radius:10px;" alt="Sistema de gestión hídrica INTA">
-    </td>
-    <td width="50%" valign="top">
+   <td width="50%" valign="top">
       <h3>Pasantía de Desarrollo Back-end - INTA</h3>
       <h4>Descripción:</h4>
-      <p>Durante mi experiencia en INTA, desarrollé un producto de software Backend diseñado para la gestión, procesamiento y visualización de datos provenientes de freatígrafos y limnígrafos.
-
-• Stack a pedido del cliente: Flask, Python, JavaScript y Jinja2, con MongoDB como base no relacional para organizar grandes volúmenes de datos de medidores de aguas subterráneas.
-• Módulos de exportación (PDF/Excel) y herramientas de graficación para optimizar el análisis técnico de los ingenieros del Instituto de Clima y Agua.
-• Interfaz de consulta con tabla dinámica para visualizar y descargar registros en tiempo real.</p>
-      <p><b>Periodo:</b> Julio 2025 - Febrero 2026 </p>
+      <p>Durante mi experiencia en INTA, desarrollé un producto de software Backend diseñado para la gestión, procesamiento y visualización de datos provenientes de freatígrafos y limnígrafos.</p>
+      <ul>
+        <li><b>Stack a pedido del cliente:</b> Flask, Python, JavaScript y Jinja2, con MongoDB como base no relacional para organizar grandes volúmenes de datos de medidores de aguas subterráneas.</li>
+        <li><b>Módulos de exportación (PDF/Excel)</b> y herramientas de graficación para optimizar el análisis técnico de los ingenieros del Instituto de Clima y Agua.</li>
+        <li><b>Interfaz de consulta</b> con tabla dinámica para visualizar y descargar registros en tiempo real.</li>
+      </ul>
+      <p><b>Periodo:</b> Julio 2025 - Febrero 2026</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
