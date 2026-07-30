@@ -133,7 +133,7 @@
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="docs/screenshots/student-progreso.png" width="100%" style="border-radius:10px;" alt="DesApp AcademiaPro">
+      <img src="https://github.com/user-attachments/assets/d229cd9c-8a25-4f85-81d3-1631044fbeb4" width="100%" style="border-radius:10px;" alt="DesApp AcademiaPro">
     </td>
     <td width="50%" valign="top">
       <h3>🎓 DesApp (AcademiaPro) - Full Stack</h3>
@@ -152,19 +152,12 @@
       <a href="https://github.com/Ezequiel-247/DesApp">
         <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
       </a>
-      <a href="https://desapp-frontend.onrender.com/login">
+      <a href="https://desapp-frontend.onrender.com">
         <img src="https://img.shields.io/badge/Probar_App-46E3B7?style=for-the-badge&logo=render&logoColor=white">
       </a>
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <b>Capturas de pantalla:</b><br><br>
-  <img src="docs/screenshots/login.png" width="30%" style="border-radius:5px; border: 1px solid #ddd; margin: 0 1%;" alt="Login">
-  <img src="docs/screenshots/student-progreso.png" width="30%" style="border-radius:5px; border: 1px solid #ddd; margin: 0 1%;" alt="Mi Progreso">
-  <img src="docs/screenshots/student-calificaciones-mobile.png" width="20%" style="border-radius:5px; border: 1px solid #ddd; margin: 0 1%;" alt="Historia Académica Mobile">
-</p>
 
 <a href="https://github.com/Ezequiel-247"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
