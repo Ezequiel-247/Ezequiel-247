@@ -31,23 +31,29 @@
 <a href="https://github.com/Ezequiel-247"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 id="experiencia">Experiencia Laboral</h2>
-<h3>Pasantía de Desarrollo Back-end - INTA</h3>
-<h4>Descripción:</h4>
-<p>Durante mi experiencia en el INTA, desarrollé un producto de software Backend diseñado para la gestión, procesamiento y visualización de datos provenientes de freatígrafos y limnígrafos. Implementé una arquitectura estructurada con Flask y Python y, a pedido del cliente, utilicé la base de datos no relacional MongoDB para organizar y filtrar la información de manera eficiente, permitiendo el manejo de grandes volúmenes de información capturada por medidores de aguas subterráneas. Asimismo, diseñé módulos de exportación (PDF/Excel) y herramientas de graficación, optimizando el análisis técnico realizado por los ingenieros del Instituto de Clima y Agua. Para completar el ecosistema, desarrollé una interfaz de consulta mediante una tabla dinámica que permitía la visualización y descarga de registros en tiempo real, interactuando directamente con el Backend a través de peticiones optimizadas.
-</p>
-<h4>Periodo</h4>
-<p>Agosto 2025 - Actualidad (Finalización prevista: Marzo 2026)</p>
 
-<h4>Tecnologías utilizadas</h4>
-<span>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/Jinja-B80000?style=for-the-badge&logo=jinja&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-%23663399.svg?style=for-the-badge&logo=css&logoColor=white">
-</span>
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/59003e25-d499-4993-b3f1-8c7354ff568d" width="100%" style="border-radius:10px;" alt="Sistema de gestión hídrica INTA">
+    </td>
+    <td width="50%" valign="top">
+      <h3>Pasantía de Desarrollo Back-end - INTA</h3>
+      <h4>Descripción:</h4>
+      <p>Durante mi experiencia en el INTA, desarrollé un producto de software Backend diseñado para la gestión, procesamiento y visualización de datos provenientes de freatígrafos y limnígrafos. Implementé una arquitectura estructurada con Flask y Python y, a pedido del cliente, utilicé la base de datos no relacional MongoDB para organizar y filtrar la información de manera eficiente, permitiendo el manejo de grandes volúmenes de información capturada por medidores de aguas subterráneas. Asimismo, diseñé módulos de exportación (PDF/Excel) y herramientas de graficación, optimizando el análisis técnico realizado por los ingenieros del Instituto de Clima y Agua. Para completar el ecosistema, desarrollé una interfaz de consulta mediante una tabla dinámica que permitía la visualización y descarga de registros en tiempo real, interactuando directamente con el Backend a través de peticiones optimizadas.</p>
+      <p><b>Periodo:</b> Agosto 2025 - Actualidad (Finalización prevista: Marzo 2026)</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+        <img src="https://img.shields.io/badge/Jinja-B80000?style=flat-square&logo=jinja&logoColor=white">
+        <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+      </p>
+    </td>
+  </tr>
+</table>
 
 <a href="https://github.com/Ezequiel-247"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
