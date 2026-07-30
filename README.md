@@ -40,11 +40,13 @@
 
 <h4>Tecnologías utilizadas</h4>
 <span>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Jinja-B80000?style=for-the-badge&logo=jinja&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-%23663399.svg?style=for-the-badge&logo=css&logoColor=white">
 </span>
 
 <a href="https://github.com/Ezequiel-247"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -94,6 +96,8 @@
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+        <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
@@ -117,15 +121,18 @@
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/7c9785ee-04c2-45f4-8ffc-cedb78f82736" width="100%" style="border-radius:10px;">
+      <img src="https://github.com/user-attachments/assets/7c9785ee-04c2-45f4-8ffc-cedb78f82736" width="100%" style="border-radius:10px;" alt="Netflix Clone">
     </td>
     <td width="50%" valign="top">
       <h3>🎬 Netflix Clone - Full Stack</h3>
-      <p>Plataforma de streaming con gestión de perfiles y sistema de favoritos. Desarrollada para practicar la integración de APIs externas y manejo de estados.</p>
+      <p>Simulación de la experiencia de usuario de Netflix desarrollada como aplicación Full Stack. Permite el registro de usuarios, gestión de perfiles y catálogo interactivo con sistema de favoritos.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
         <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white">
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
       </p>
       <br>
       <a href="https://github.com/Ezequiel-247/App-de-Series-estilo-NETFLIX">
@@ -150,9 +157,14 @@
       <h3>🤝 Red Anti-Social - Full Stack</h3>
       <p>Plataforma interactiva desarrollada para la UNAHUR que permite a los usuarios compartir contenido, comentar y reaccionar. Implementa una arquitectura robusta con validaciones de seguridad y persistencia de datos.</p>
       <p>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
         <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white">
       </p>
       <br>
