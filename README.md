@@ -34,7 +34,6 @@
 <h3>Pasantía de Desarrollo Back-end - INTA</h3>
 <h4>Descripción:</h4>
 <p>Durante mi experiencia en el INTA, desarrollé un producto de software Backend diseñado para la gestión, procesamiento y visualización de datos provenientes de freatígrafos y limnígrafos. Implementé una arquitectura estructurada con Flask y Python y, a pedido del cliente, utilicé la base de datos no relacional MongoDB para organizar y filtrar la información de manera eficiente, permitiendo el manejo de grandes volúmenes de información capturada por medidores de aguas subterráneas. Asimismo, diseñé módulos de exportación (PDF/Excel) y herramientas de graficación, optimizando el análisis técnico realizado por los ingenieros del Instituto de Clima y Agua. Para completar el ecosistema, desarrollé una interfaz de consulta mediante una tabla dinámica que permitía la visualización y descarga de registros en tiempo real, interactuando directamente con el Backend a través de peticiones optimizadas.
-
 </p>
 <h4>Periodo</h4>
 <p>Agosto 2025 - Actualidad (Finalización prevista: Marzo 2026)</p>
@@ -124,6 +123,34 @@
       </a>
       <a href="https://red-anti-social-front.onrender.com">
         <img src="https://img.shields.io/badge/Probar_App-43853d?style=for-the-badge&logo=render&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="docs/screenshots/student-progreso.png" width="100%" style="border-radius:10px;" alt="DesApp AcademiaPro">
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 DesApp (AcademiaPro) - Full Stack</h3>
+      <p>Plataforma de gestión académica universitaria. Permite realizar el seguimiento del plan de estudios, controlar correlatividades, registrar avances con importación desde Excel, organizar sesiones de estudio y conectar con compañeros.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+        <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+      </p>
+      <br>
+      <a href="https://github.com/Ezequiel-247/DesApp">
+        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
   </tr>
