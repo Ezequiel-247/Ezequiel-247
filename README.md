@@ -40,7 +40,11 @@
     <td width="50%" valign="top">
       <h3>Pasantía de Desarrollo Back-end - INTA</h3>
       <h4>Descripción:</h4>
-      <p>Durante mi experiencia en el INTA, desarrollé un producto de software Backend diseñado para la gestión, procesamiento y visualización de datos provenientes de freatígrafos y limnígrafos. Implementé una arquitectura estructurada con Flask y Python y, a pedido del cliente, utilicé la base de datos no relacional MongoDB para organizar y filtrar la información de manera eficiente, permitiendo el manejo de grandes volúmenes de información capturada por medidores de aguas subterráneas. Asimismo, diseñé módulos de exportación (PDF/Excel) y herramientas de graficación, optimizando el análisis técnico realizado por los ingenieros del Instituto de Clima y Agua. Para completar el ecosistema, desarrollé una interfaz de consulta mediante una tabla dinámica que permitía la visualización y descarga de registros en tiempo real, interactuando directamente con el Backend a través de peticiones optimizadas.</p>
+      <p>Durante mi experiencia en INTA, desarrollé un producto de software Backend diseñado para la gestión, procesamiento y visualización de datos provenientes de freatígrafos y limnígrafos.
+
+• Stack a pedido del cliente: Flask, Python, JavaScript y Jinja2, con MongoDB como base no relacional para organizar grandes volúmenes de datos de medidores de aguas subterráneas.
+• Módulos de exportación (PDF/Excel) y herramientas de graficación para optimizar el análisis técnico de los ingenieros del Instituto de Clima y Agua.
+• Interfaz de consulta con tabla dinámica para visualizar y descargar registros en tiempo real.</p>
       <p><b>Periodo:</b> Julio 2025 - Febrero 2026 </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
