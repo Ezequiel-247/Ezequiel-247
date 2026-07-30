@@ -51,6 +51,7 @@
 
 <h2 id="proyectos">Mis Proyectos</h2>
 
+<!-- 1. Portfolio Personal -->
 <table border="0">
   <tr>
     <td width="50%" align="center">
@@ -77,6 +78,39 @@
 
 <br>
 
+<!-- 2. DesApp (AcademiaPro) -->
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/d229cd9c-8a25-4f85-81d3-1631044fbeb4" width="100%" style="border-radius:10px;" alt="DesApp AcademiaPro">
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 DesApp (AcademiaPro) - Full Stack</h3>
+      <p>Plataforma de gestión académica universitaria. Permite realizar el seguimiento del plan de estudios, controlar correlatividades, registrar avances con importación desde Excel, organizar sesiones de estudio y conectar con compañeros.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+        <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+      </p>
+      <br>
+      <a href="https://github.com/Ezequiel-247/DesApp">
+        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <a href="https://desapp-frontend.onrender.com">
+        <img src="https://img.shields.io/badge/Probar_App-46E3B7?style=for-the-badge&logo=render&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- 3. Netflix Clone -->
 <table border="0">
   <tr>
     <td width="50%" align="center">
@@ -103,6 +137,7 @@
 
 <br>
 
+<!-- 4. Red Anti-Social -->
 <table border="0">
   <tr>
     <td width="50%" align="center">
@@ -123,37 +158,6 @@
       </a>
       <a href="https://red-anti-social-front.onrender.com">
         <img src="https://img.shields.io/badge/Probar_App-43853d?style=for-the-badge&logo=render&logoColor=white">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/d229cd9c-8a25-4f85-81d3-1631044fbeb4" width="100%" style="border-radius:10px;" alt="DesApp AcademiaPro">
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 DesApp (AcademiaPro) - Full Stack</h3>
-      <p>Plataforma de gestión académica universitaria. Permite realizar el seguimiento del plan de estudios, controlar correlatividades, registrar avances con importación desde Excel, organizar sesiones de estudio y conectar con compañeros.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB">
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
-        <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white">
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-      </p>
-      <br>
-      <a href="https://github.com/Ezequiel-247/DesApp">
-        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
-      </a>
-      <a href="https://desapp-frontend.onrender.com">
-        <img src="https://img.shields.io/badge/Probar_App-46E3B7?style=for-the-badge&logo=render&logoColor=white">
       </a>
     </td>
   </tr>
