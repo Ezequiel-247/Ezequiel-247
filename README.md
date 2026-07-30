@@ -152,9 +152,19 @@
       <a href="https://github.com/Ezequiel-247/DesApp">
         <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
       </a>
+      <a href="https://desapp-frontend.onrender.com/login">
+        <img src="https://img.shields.io/badge/Probar_App-46E3B7?style=for-the-badge&logo=render&logoColor=white">
+      </a>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <b>Capturas de pantalla:</b><br><br>
+  <img src="docs/screenshots/login.png" width="30%" style="border-radius:5px; border: 1px solid #ddd; margin: 0 1%;" alt="Login">
+  <img src="docs/screenshots/student-progreso.png" width="30%" style="border-radius:5px; border: 1px solid #ddd; margin: 0 1%;" alt="Mi Progreso">
+  <img src="docs/screenshots/student-calificaciones-mobile.png" width="20%" style="border-radius:5px; border: 1px solid #ddd; margin: 0 1%;" alt="Historia Académica Mobile">
+</p>
 
 <a href="https://github.com/Ezequiel-247"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
