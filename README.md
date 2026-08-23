@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td width="30%" align="center" valign="middle">
+    <td width="60%" align="center" valign="middle">
       <img src="https://avatars.githubusercontent.com/u/141964904?v=4" width="170" style="border-radius: 50%;" alt="Ezequiel Ortiz">
     </td>
     <td width="70%" valign="middle">
