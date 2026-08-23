@@ -26,7 +26,7 @@
 
 <a href="https://github.com/Ezequiel-247"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h2 id="sobre-mi">Sobre Mi</h2>
+<h2 id="sobre-mi">Sobre Mí</h2>
 <p>
   Hola soy Eduardo Ezequiel Ortiz, vivo en Buenos Aires, Argentina. Recientemente me gradué como Técnico Universitario en Programación en la Universidad Nacional de Hurlingham (UNAHUR), actualmente estoy cursando la Licenciatura en Informática (UNAHUR). Constantemente estoy practicando, puliendo e investigando sobre habilidades de programación y desarrollo de software para poder aplicarlas en mis proyectos personales y particulares aportando código limpio, eficiente y enfocado en el impacto real. Muchas gracias por visitar mi perfil de GitHub, espero que te guste lo que ves.
 </p>
@@ -59,6 +59,10 @@
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
       </p>
+      <br>
+      <a href="https://www.youtube.com/watch?v=bGe9rUW3NF0">
+        <img src="https://img.shields.io/badge/Ver_Video_Explicativo-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+      </a>
     </td>
   </tr>
 </table>
@@ -110,9 +114,6 @@
         <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white">
       </p>
       <br>
-      <a href="https://github.com/Ezequiel-247/Pintor-Mario">
-        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
-      </a>
       <a href="https://pintor-mario.onrender.com/">
         <img src="https://img.shields.io/badge/Ver_Web-46E3B7?style=for-the-badge&logo=render&logoColor=white">
       </a>
