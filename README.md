@@ -10,14 +10,14 @@
   <a href="#sobre-mi">
     <img src="https://img.shields.io/badge/Sobre%20mí-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <a href="#estadisticas">
+    <img src="https://img.shields.io/badge/Estadísticas-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
   <a href="#experiencia">
     <img src="https://img.shields.io/badge/Experiencia%20Laboral-181717?style=for-the-badge&logo=briefcase&logoColor=white">
   </a>
   <a href="#proyectos">
     <img src="https://img.shields.io/badge/Mis%20Proyectos-181717?style=for-the-badge&logo=codeforces&logoColor=white">
-  </a>
-  <a href="#estadisticas">
-    <img src="https://img.shields.io/badge/Estadísticas-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="#redes">
     <img src="https://img.shields.io/badge/Redes%20Sociales-181717?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -29,6 +29,14 @@
 <h2 id="sobre-mi">Sobre Mí</h2>
 <p>
   Hola soy Eduardo Ezequiel Ortiz, vivo en Buenos Aires, Argentina. Recientemente me gradué como Técnico Universitario en Programación en la Universidad Nacional de Hurlingham (UNAHUR), actualmente estoy cursando la Licenciatura en Informática (UNAHUR). Constantemente estoy practicando, puliendo e investigando sobre habilidades de programación y desarrollo de software para poder aplicarlas en mis proyectos personales y particulares aportando código limpio, eficiente y enfocado en el impacto real. Muchas gracias por visitar mi perfil de GitHub, espero que te guste lo que ves.
+</p>
+
+<br>
+
+<h2 id="estadisticas">📊 Estadísticas de GitHub</h2>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ezequiel-247&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ezequiel-247&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <a href="https://github.com/Ezequiel-247"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -222,12 +230,6 @@
 </table>
 
 <a href="https://github.com/Ezequiel-247"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<h2 id="estadisticas">📊 Estadísticas de GitHub</h2>
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ezequiel-247&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ezequiel-247&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 <h2 id="redes">Visita mis Redes Sociales</h2>
 <p align="left">
