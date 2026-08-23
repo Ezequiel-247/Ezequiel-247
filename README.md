@@ -1,15 +1,19 @@
-<h1 align="center">Hola, soy Ezequiel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<table border="0">
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://avatars.githubusercontent.com/u/141964904?v=4" width="170" style="border-radius: 50%;" alt="Ezequiel Ortiz">
+    </td>
+    <td width="70%" valign="middle">
+      <h1>Hola, soy Ezequiel Ortiz 👋</h1>
+      <p><b>Desarrollador Backend & Full Stack</b> de Buenos Aires, Argentina 🇦🇷.</p>
+      <p>
+        Graduado como <b>Técnico Universitario en Programación</b> y cursando la <b>Licenciatura en Informática</b> (UNAHUR). Enfocado en diseñar arquitecturas sólidas, APIs escalables y software eficiente con impacto real. ¡Gracias por visitar mi perfil de GitHub!
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/141964904?v=4" width="200" style="border-radius: 50%;">
-
-<a href="https://github.com/Ezequiel-247"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-</p>
-
-<p align="center">
-  <a href="#sobre-mi">
-    <img src="https://img.shields.io/badge/Sobre%20mí-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
   <a href="#estadisticas">
     <img src="https://img.shields.io/badge/Estadísticas-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
@@ -25,13 +29,6 @@
 </p>
 
 <a href="https://github.com/Ezequiel-247"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<h2 id="sobre-mi">Sobre Mí</h2>
-<p>
-  Hola soy Eduardo Ezequiel Ortiz, vivo en Buenos Aires, Argentina. Recientemente me gradué como Técnico Universitario en Programación en la Universidad Nacional de Hurlingham (UNAHUR), actualmente estoy cursando la Licenciatura en Informática (UNAHUR). Constantemente estoy practicando, puliendo e investigando sobre habilidades de programación y desarrollo de software para poder aplicarlas en mis proyectos personales y particulares aportando código limpio, eficiente y enfocado en el impacto real. Muchas gracias por visitar mi perfil de GitHub, espero que te guste lo que ves.
-</p>
-
-<br>
 
 <h2 id="estadisticas">📊 Estadísticas de GitHub</h2>
 <p align="center">
