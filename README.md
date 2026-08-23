@@ -42,6 +42,7 @@
 
 <h2 id="experiencia">Experiencia Laboral</h2>
 
+<!-- 1. INTA -->
 <table border="0">
   <tr>
     <td width="50%" align="center">
@@ -69,6 +70,37 @@
       <br>
       <a href="https://www.youtube.com/watch?v=bGe9rUW3NF0">
         <img src="https://img.shields.io/badge/Ver_Video_Explicativo-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- 2. Pintor Mario (Freelance) -->
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/ef1f72db-a3a1-4e62-96f4-da6947288807" width="100%" style="border-radius:10px;" alt="Landing-Mario">
+    </td>
+    <td width="50%" valign="top">
+      <h3>Desarrollador Frontend Freelance - Pintor Mario</h3>
+      <h4>Descripción:</h4>
+      <p>Diseño y desarrollo integral de un sitio web comercial para profesional del rubro de refacciones y pintura, optimizado para conversión y captación de clientes.</p>
+      <ul>
+        <li><b>Desarrollo a medida:</b> Implementación con React, CSS3 y JavaScript con diseño 100% responsivo adaptable a dispositivos móviles.</li>
+        <li><b>Canal directo de ventas:</b> Integración directa de canal de contacto y presupuestos vía WhatsApp para agilizar la interacción cliente-profesional.</li>
+        <li><b>Despliegue y hosting:</b> Puesta en producción y configuración de entorno en Render.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white">
+      </p>
+      <br>
+      <a href="https://pintor-mario.onrender.com/">
+        <img src="https://img.shields.io/badge/Ver_Web-46E3B7?style=for-the-badge&logo=render&logoColor=white">
       </a>
     </td>
   </tr>
@@ -105,32 +137,7 @@
 
 <br>
 
-<!-- 2. Pintor Mario -->
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/ef1f72db-a3a1-4e62-96f4-da6947288807" width="100%" style="border-radius:10px;" alt="Landing-Mario">
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎨 Pintor Mario - Landing Page Comercial</h3>
-      <p>Sitio web profesional orientado a la captación de clientes y exposición de servicios de pintura y refacciones. Incluye catálogo de trabajos realizados, diseño responsivo y canal directo de contacto.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white">
-      </p>
-      <br>
-      <a href="https://pintor-mario.onrender.com/">
-        <img src="https://img.shields.io/badge/Ver_Web-46E3B7?style=for-the-badge&logo=render&logoColor=white">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- 3. DesApp (AcademiaPro) -->
+<!-- 2. DesApp (AcademiaPro) -->
 <table border="0">
   <tr>
     <td width="50%" align="center">
@@ -167,7 +174,7 @@
 
 <br>
 
-<!-- 4. Netflix Clone -->
+<!-- 3. Netflix Clone -->
 <table border="0">
   <tr>
     <td width="50%" align="center">
@@ -197,7 +204,7 @@
 
 <br>
 
-<!-- 5. Red Anti-Social -->
+<!-- 4. Red Anti-Social -->
 <table border="0">
   <tr>
     <td width="50%" align="center">
