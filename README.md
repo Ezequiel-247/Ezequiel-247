@@ -6,9 +6,11 @@
     <td width="70%" valign="middle">
       <h1>Hola, soy Ezequiel Ortiz 👋</h1>
       <p><b>Desarrollador Backend & Full Stack</b> de Buenos Aires, Argentina 🇦🇷.</p>
-      <p>
-        Graduado como <b>Técnico Universitario en Programación</b> y cursando la <b>Licenciatura en Informática</b> (UNAHUR). Enfocado en diseñar arquitecturas sólidas, APIs escalables y software eficiente con impacto real. ¡Gracias por visitar mi perfil de GitHub!
-      </p>
+      <ul>
+        <li>🎓 <b>Formación:</b> Técnico Universitario en Programación y estudiante de la Licenciatura en Informática (UNAHUR).</li>
+        <li>⚙️ <b>Especialidad:</b> Diseño de arquitecturas backend sólidas, APIs RESTful escalables y persistencia de datos.</li>
+        <li>🚀 <b>Enfoque:</b> Desarrollo de software eficiente, código limpio y soluciones orientadas al impacto real.</li>
+      </ul>
     </td>
   </tr>
 </table>
