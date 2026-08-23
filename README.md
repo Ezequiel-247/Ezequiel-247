@@ -225,11 +225,9 @@
 
 <h2 id="estadisticas">📊 Estadísticas de GitHub</h2>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ezequiel-247&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-247&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ezequiel-247&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ezequiel-247&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-
-<a href="https://github.com/Ezequiel-247"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 id="redes">Visita mis Redes Sociales</h2>
 <p align="left">
