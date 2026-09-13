@@ -42,6 +42,7 @@
 
 <h2 id="experiencia">Experiencia Laboral</h2>
 
+<!-- 1. INTA -->
 <table border="0">
   <tr>
     <td width="50%" align="center">
@@ -76,6 +77,7 @@
 
 <br>
 
+<!-- 2. Pintor Mario (Freelance) -->
 <table border="0">
   <tr>
     <td width="50%" align="center">
@@ -108,6 +110,7 @@
 
 <h2 id="proyectos">Mis Proyectos</h2>
 
+<!-- 1. Portfolio Personal -->
 <table border="0">
   <tr>
     <td width="50%" align="center">
@@ -134,6 +137,7 @@
 
 <br>
 
+<!-- 2. DesApp (AcademiaPro) -->
 <table border="0">
   <tr>
     <td width="50%" align="center">
@@ -170,6 +174,7 @@
 
 <br>
 
+<!-- 3. Netflix Clone -->
 <table border="0">
   <tr>
     <td width="50%" align="center">
@@ -199,6 +204,7 @@
 
 <br>
 
+<!-- 4. Red Anti-Social -->
 <table border="0">
   <tr>
     <td width="50%" align="center">
@@ -231,6 +237,7 @@
 
 <br>
 
+<!-- 5. BebidasData (Scraping Analytics) -->
 <table border="0">
   <tr>
     <td width="50%" align="center">
@@ -238,13 +245,16 @@
     </td>
     <td width="50%" valign="top">
       <h3>📊 BebidasData - Scraping Analytics</h3>
-      <p>Sistema de scraping, normalización y análisis de datos de bebidas. Los datos recolectados se procesan, se almacenan en una base SQLite y se exponen a través de una API REST con un dashboard interactivo.</p>
+      <p>Sistema automatizado de scraping (Axios + Cheerio), normalización y persistencia en SQLite. Cuenta con una API REST construida con Express y un panel interactivo desarrollado en React y Tailwind para el análisis del catálogo de bebidas.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
-        <img src="https://img.shields.io/badge/API_REST-005571?style=flat-square&logo=postman&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white">
+        <img src="https://img.shields.io/badge/Cheerio-2B3137?style=flat-square&logo=cheerio&logoColor=white">
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
       </p>
       <br>
       <a href="https://github.com/Ezequiel-247/-Scraping-analytics">
