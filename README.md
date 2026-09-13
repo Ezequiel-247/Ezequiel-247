@@ -212,7 +212,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>📊 BebidasData - Scraping Analytics</h3>
-      <p>Sistema automatizado de scraping (Axios + Cheerio), normalización y persistencia en SQLite. Cuenta con una API REST construida con Express y un panel interactivo desarrollado en React y Tailwind para el análisis del catálogo de bebidas.</p>
+      <p>Sistema con datos extraídos mediante scraping, persistidos inicialmente en un archivo JSON y migrados a SQLite mediante un script de semillas (<i>seed</i>). Cuenta con una API REST construida con Express y un panel interactivo desarrollado en React y Tailwind para el análisis del catálogo de bebidas.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
