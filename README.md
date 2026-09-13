@@ -235,6 +235,32 @@
   </tr>
 </table>
 
+<br>
+
+<!-- 5. BebidasData (Scraping Analytics) -->
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/AQUÍ_EL_LINK_DE_LA_IMAGEN" width="100%" style="border-radius:10px;" alt="BebidasData Scraping Analytics">
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 BebidasData - Scraping Analytics</h3>
+      <p>Sistema de scraping, normalización y análisis de datos de bebidas. Los datos recolectados se procesan, se almacenan en una base SQLite y se exponen a través de una API REST con un dashboard interactivo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
+        <img src="https://img.shields.io/badge/API_REST-005571?style=flat-square&logo=postman&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+      </p>
+      <br>
+      <a href="https://github.com/Ezequiel-247/-Scraping-analytics">
+        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
+
 <a href="https://github.com/Ezequiel-247"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 id="redes">Visita mis Redes Sociales</h2>
