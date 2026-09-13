@@ -204,7 +204,36 @@
 
 <br>
 
-<!-- 4. Red Anti-Social -->
+<!-- 4. BebidasData (Scraping Analytics) -->
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/adb394fc-5299-4451-bf7e-cf871e125da5" width="100%" style="border-radius:10px;" alt="BebidasData Scraping Analytics">
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 BebidasData - Scraping Analytics</h3>
+      <p>Sistema automatizado de scraping (Axios + Cheerio), normalización y persistencia en SQLite. Cuenta con una API REST construida con Express y un panel interactivo desarrollado en React y Tailwind para el análisis del catálogo de bebidas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white">
+        <img src="https://img.shields.io/badge/Cheerio-2B3137?style=flat-square&logo=cheerio&logoColor=white">
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
+      </p>
+      <br>
+      <a href="https://github.com/Ezequiel-247/-Scraping-analytics">
+        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- 5. Red Anti-Social -->
 <table border="0">
   <tr>
     <td width="50%" align="center">
@@ -230,35 +259,6 @@
       </a>
       <a href="https://red-anti-social-front.onrender.com">
         <img src="https://img.shields.io/badge/Probar_App-43853d?style=for-the-badge&logo=render&logoColor=white">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- 5. BebidasData (Scraping Analytics) -->
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/adb394fc-5299-4451-bf7e-cf871e125da5" width="100%" style="border-radius:10px;" alt="BebidasData Scraping Analytics">
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 BebidasData - Scraping Analytics</h3>
-      <p>Sistema automatizado de scraping (Axios + Cheerio), normalización y persistencia en SQLite. Cuenta con una API REST construida con Express y un panel interactivo desarrollado en React y Tailwind para el análisis del catálogo de bebidas.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white">
-        <img src="https://img.shields.io/badge/Cheerio-2B3137?style=flat-square&logo=cheerio&logoColor=white">
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB">
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
-      </p>
-      <br>
-      <a href="https://github.com/Ezequiel-247/-Scraping-analytics">
-        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
   </tr>
